@@ -40,4 +40,24 @@ p span.i4{
 	padding-left: 5em;
 	text-indent: -1em;
 }
+
+p span.i6{
+	padding-left: 7em;
+	text-indent: -1em;
+}
+
+p span.i8{
+	padding-left: 9em;
+	text-indent: -1em;
+}
+
+p span.i10{
+	padding-left: 11em;
+	text-indent: -1em;
+}
+
+p span.i11{
+	padding-left: 12em;
+	text-indent: -1em;
+}
 /* End verse */
