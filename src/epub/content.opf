@@ -40,8 +40,7 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-an-autumn-love-cycle-full-text-1928</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
