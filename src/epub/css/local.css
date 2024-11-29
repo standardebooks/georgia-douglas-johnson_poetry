@@ -83,6 +83,18 @@ p span.i11{
 }
 /* End bridgeheads */
 
+/* Begin figures */
+figure{
+	break-inside: avoid;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+/* End figures */
+
 #hegira p:first-of-type{
 	font-style: italic;
 }
