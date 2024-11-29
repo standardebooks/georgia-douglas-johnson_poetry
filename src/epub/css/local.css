@@ -82,3 +82,7 @@ p span.i11{
 	text-align: justify;
 }
 /* End bridgeheads */
+
+#hegira p:first-of-type{
+	font-style: italic;
+}
