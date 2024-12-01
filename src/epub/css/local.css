@@ -60,6 +60,10 @@ p span.i11{
 	padding-left: 12em;
 	text-indent: -1em;
 }
+
+.dl2 span:first-child{
+	vertical-align: 100%;
+}
 /* End verse */
 
 /* Begin bridgeheads */
