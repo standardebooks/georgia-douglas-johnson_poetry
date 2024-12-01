@@ -40,6 +40,13 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>LANG</dc:language>
+		<!--The Heart of a Woman, 1918-->
+		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-the-heart-of-a-woman-full-text-1918</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/103153234</dc:source>
+		<!--Bronze, 1922-->
+		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-bronze-full-text-1922</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/000781515</dc:source>
+		<!--An Autumn Love Cycle, 1928-->
 		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-an-autumn-love-cycle-full-text-1928</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
