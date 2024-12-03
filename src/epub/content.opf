@@ -52,6 +52,10 @@
 		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-poems-published-in-the-crisis-1910-1926</dc:source>
 		<!--1916-06, 1917-01, 1917-10-->
 		<dc:source>https://catalog.hathitrust.org/Record/000502434</dc:source>
+		<!--The Messenger-->
+		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poems-published-in-the-messenger-magazine</dc:source>
+		<!--1923-02, 1924-04, 1924-11-->
+		<dc:source>https://catalog.hathitrust.org/Record/000056822</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
