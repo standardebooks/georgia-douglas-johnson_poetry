@@ -1,6 +1,10 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+article{
+	break-after: page;
+}
+
 /* Begin verse */
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
@@ -75,14 +79,7 @@ p span.i11{
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] i{
-	font-style: normal;
-}
-
-[epub|type~="z3998:hymn"] [epub|type~="bridgehead"],
-[epub|type~="z3998:poem"] [epub|type~="bridgehead"],
-[epub|type~="z3998:song"] [epub|type~="bridgehead"],
-[epub|type~="z3998:verse"] [epub|type~="bridgehead"]{
+[epub|type~="z3998:poem"] [epub|type~="bridgehead"]{
 	text-align: justify;
 }
 /* End bridgeheads */
