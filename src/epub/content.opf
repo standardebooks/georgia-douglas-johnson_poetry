@@ -42,7 +42,7 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of poems by Georgia Douglas Johnson.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p><a href="https://standardebooks.org/ebooks/georgia-douglas-johnson">Georgia Douglas Johnson</a> was one of the leading female poets of the Harlem Renaissance, who held the “S Street Salon” that brought her fellow African-American writers to her home in Washington, <abbr>D.C.</abbr> Her poetry collections <i>The Heart of a Woman</i> and <i>An Autumn Love Cycle</i> center nonracial, feminine themes, whereas her collection <i>Bronze</i> includes several poems explicitly addressing racial subjects. Along with the poems from these collections, this Standard Ebooks edition compiles all of her other published poems in the public domain.</p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!--The Heart of a Woman, 1918-->
