@@ -70,7 +70,7 @@
 		<!--Opportunity, 1926-07-->
 		<dc:source>https://catalog.hathitrust.org/Record/000064962</dc:source>
 		<meta property="se:production-notes">An Autumn Love Cycle was proofread from a reprint and the scans were sent to the editor-in-chief for archiving.</meta>
-		<meta property="se:word-count">12417</meta>
+		<meta property="se:word-count">12203</meta>
 		<meta property="se:reading-ease.flesch">71.38</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/georgia-douglas-johnson_poetry</meta>
 		<dc:creator id="author">Georgia Douglas Johnson</dc:creator>
