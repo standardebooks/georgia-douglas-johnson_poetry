@@ -83,7 +83,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">William N. Buckner</dc:contributor>
 		<meta property="file-as" refines="#artist">Buckner, William N.</meta>
-		<meta property="schema:alternateName" refines="#author">William Naylor Buckner Jr.</meta>
+		<meta property="schema:alternateName" refines="#artist">William Naylor Buckner Jr.</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Amardeep Singh</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Singh, Amardeep</meta>
